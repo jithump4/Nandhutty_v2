@@ -3,7 +3,7 @@
     "description": "Nandhutty_v2 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
     "logo": "https://i.imgur.com/ADXSU8e.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Anu00123/Nandhutty_v2?organization=Anu00123&organization=Anu00123",
+    "repository": "https://github.com/jithump4/Nandhutty_v2?organization=jithump4&organization=jithump4",
     "stack": "container",
     "env": {
         "JULIE_SESSION": {
