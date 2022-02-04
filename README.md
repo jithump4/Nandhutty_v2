@@ -25,7 +25,7 @@ IF YOU ARE FACING PROBLEMS WHILE DEPLOYING
 FIRST FORK THIS REPO
 THEN COPY THE LINK BELLOW AND CHANGE THE NAME `Ajmal-Achu` TO YOUR USER NAME AND OPEN THIS LINK IN CHROME
 
-Copy this link https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty_v2
+Copy this link https://heroku.com/deploy?template=https://github.com/jithump4/Nandhutty_v2?organization=jithump4&organization=jithump4/github.com/Ajmal-Achu/Nandhutty_v2
 </p>
 
 
